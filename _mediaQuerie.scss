@@ -1,0 +1,27 @@
+@media(max-width:970px){
+    .box-pagos{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:970px){
+    .container-pagos{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media(max-width:970px){
+    .layout{
+        display: flex;
+        flex-direction: column;
+    }  
+}
+
+@media(max-width:970px){
+    .box-cards{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }  
+}

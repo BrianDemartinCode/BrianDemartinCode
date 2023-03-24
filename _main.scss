@@ -1,0 +1,57 @@
+.box-1{
+    display: flex;
+    justify-content: center;
+    margin: 18px;
+}
+
+.button-whatsapp{
+    text-align: center;
+    margin: 18px;
+}
+
+.box-svg{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    padding: 18px;
+}
+
+.box-cards{
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.layout {
+    width: 100%;
+  
+    display: flex;
+    gap: 16px;
+    text-align: center;
+  }
+  
+.grow1 { 
+    flex-grow: 1; 
+}
+
+.box-footer{
+    background: #00d1a4;
+}
+
+.box-pagos{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 0;
+    padding: 18px;
+}
+
+
+.layout-2 {
+    width: 100%;
+  
+    display: flex;
+    gap: 16px;
+  }
+  
+  .grow1 { flex-grow: 1; }
